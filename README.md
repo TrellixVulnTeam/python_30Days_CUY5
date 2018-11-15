@@ -1,5 +1,4 @@
-# python_30Days
-Learning Python in 30 days.
+# Learning Python in 30 days.
 <h1>
   <ol>
     <li> Python Basics </li>
