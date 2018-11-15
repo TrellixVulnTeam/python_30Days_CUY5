@@ -1,0 +1,162 @@
+Subway 11271
+
+1350SCoastHwy
+
+
+FastFood,
+Sandwiches
+
+
+Mama D’s Italian Kitchen
+
+3012NewportBlvd
+
+
+Italian,
+Pizza,
+Salad
+
+
+Hook & Anchor
+
+3305NewportBlvd
+
+
+Seafood,
+Salad
+
+
+Sol Grill
+
+2400WCoastHwy
+
+
+Seafood,
+American(New),
+Steakhouses
+
+
+Playa Mesa
+
+428E17thSt
+
+
+Mexican
+
+
+Bosscat Kitchen and Libations
+
+4647MacArthurBlvd
+
+
+American(New),
+Lounges,
+Southern
+
+
+Circle Hook
+
+3432ViaOporto
+
+
+Seafood
+
+
+Farmhouse At Roger’s Gardens
+
+2301SanJoaquinHillsRd
+
+
+American(Traditional)
+
+
+SOL Mexican Cocina
+
+251ECoastHwy
+
+
+Mexican,
+Breakfast&Brunch,
+Bars
+
+
+Bluewater Grill
+
+630LidoParkDr
+
+
+Seafood,
+Venues&EventSpaces,
+American(Traditional)
+
+
+Mastro’s Ocean Club
+
+8112ECoastHwy
+
+
+Seafood,
+Steakhouses,
+Lounges
+
+
+R+D Kitchen
+
+555NewportCtrDr
+
+
+American(New),
+Burgers,
+Salad
+
+
+Harborside Restaurant and Grand Ballroom
+
+400MainSt
+
+
+American(Traditional),
+Seafood,
+Venues&EventSpaces
+
+
+Rockin’ Baja Lobster Coastal Cantina
+
+2104WOceanfront
+
+
+Seafood,
+Mexican,
+Bars
+
+
+Saigon Beach Restaurant
+
+2233WBalboaBlvd
+
+
+Vietnamese,
+Sandwiches,
+Vegetarian
+
+
+Olea - Cellar Craft Cook
+
+2001WestcliffDr
+
+
+Bars,
+Seafood,
+American(New)
+
+
+Eddie V’s Prime Seafood
+
+1370BisonAve
+
+
+Seafood,
+Steakhouses,
+Lounges
+
+

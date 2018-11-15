@@ -1,0 +1,6 @@
+Hi {name}! 
+Thank you for the purchase. 
+We hope you are exicted about using it.
+Your ID is {id}.
+Your email is {email}.
+Team Hifari

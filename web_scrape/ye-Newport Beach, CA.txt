@@ -1,0 +1,225 @@
+Round Table Pizza
+
+1212East17thStreet
+
+
+Pizza
+
+
+Mama D’s Italian Kitchen
+
+3012NewportBlvd
+
+
+Italian,
+Pizza,
+Salad
+
+
+Playa Mesa
+
+428E17thSt
+
+
+Mexican
+
+
+Hook & Anchor
+
+3305NewportBlvd
+
+
+Seafood,
+Salad
+
+
+Sol Grill
+
+2400WCoastHwy
+
+
+Seafood,
+American(New),
+Steakhouses
+
+
+Circle Hook
+
+3432ViaOporto
+
+
+Seafood
+
+
+Bosscat Kitchen and Libations
+
+4647MacArthurBlvd
+
+
+American(New),
+Lounges,
+Southern
+
+
+SOL Mexican Cocina
+
+251ECoastHwy
+
+
+Mexican,
+Breakfast&Brunch,
+Bars
+
+
+Tupelo Junction Cafe
+
+50829thSt
+
+
+American(Traditional),
+Breakfast&Brunch
+
+
+The Dock
+
+2816LafayetteRd
+
+
+American(New),
+Breakfast&Brunch,
+Seafood
+
+
+Wilma’s Patio Restaurant
+
+203MarineAve
+
+
+American(Traditional),
+Breakfast&Brunch,
+Burgers
+
+
+Farmhouse At Roger’s Gardens
+
+2301SanJoaquinHillsRd
+
+
+American(Traditional)
+
+
+Moulin
+
+1000BristolStN
+
+
+Bakeries,
+French,
+Cafes
+
+
+R+D Kitchen
+
+555NewportCtrDr
+
+
+American(New),
+Burgers,
+Salad
+
+
+The Lighthouse Bayview Café
+
+1600WBalboaBlvd
+
+
+Breakfast&Brunch,
+WineBars,
+Cafes
+
+
+Harborside Restaurant and Grand Ballroom
+
+400MainSt
+
+
+American(Traditional),
+Seafood,
+Venues&EventSpaces
+
+
+Bluewater Grill
+
+630LidoParkDr
+
+
+Seafood,
+Venues&EventSpaces,
+American(Traditional)
+
+
+The Broken Yolk Cafe
+
+2701HarborBlvd
+
+
+Breakfast&Brunch
+
+
+Sushi District
+
+488E17thSt
+
+
+SushiBars
+
+
+Saigon Beach Restaurant
+
+2233WBalboaBlvd
+
+
+Vietnamese,
+Sandwiches,
+Vegetarian
+
+
+Xanadu Café
+
+100WCoastHwy
+
+
+Breakfast&Brunch,
+Diners,
+WineBars
+
+
+Provenance
+
+2531EastbluffDr
+
+
+American(New),
+Breakfast&Brunch,
+WineBars
+
+
+On The Rocks
+
+2332WestCoastHwy
+
+
+Bars,
+American(Traditional)
+
+
+Mastro’s Ocean Club
+
+8112ECoastHwy
+
+
+Seafood,
+Steakhouses,
+Lounges
+
+
