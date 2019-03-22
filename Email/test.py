@@ -3,9 +3,9 @@ from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
 host= "smtp.gmail.com"
 port= 587
-username="m.tahircis95@gmail.com"
-password="safamaha444"
-from_email="babloo9814@gmail.com"
+username=""
+password="********"
+from_email=""
 to_list = ["tahirs95@hotmail.com"]
 email_conn = smtplib.SMTP(host,port)
 email_conn.ehlo()
