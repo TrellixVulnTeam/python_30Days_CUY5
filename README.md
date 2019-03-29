@@ -6,5 +6,7 @@
     <li> Working with CSV files </li>
     <li> Working with APIs </li>
     <li> Working with Elasticsearch </li>
+    <li> Working with Background Tasks </li>
+    <li> Working with Python Pickles </li>
   </ol>
 </hl>
